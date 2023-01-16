@@ -7,7 +7,7 @@ Highly Efficient mining pool for Ravencoin!
 
 -------
 ### Screenshots
-http://ravenpool.ath.cx/
+https://ekapool.com
 
 ![ScreenShot](https://github.com/mardock2009/Ravencoin-Pool/blob/master/pool.jpg?raw=true)
 -------
